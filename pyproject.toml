@@ -1,0 +1,28 @@
+[project]
+name = "finance-agent"
+version = "0.1.0"
+description = "AI agent with GUI for Yahoo Finance + Obsedian Intergration"
+authors = [
+    {name = "Mathiew Loisel"}
+]
+requires-python = ">=3.14,<3.15"
+
+packages = [
+    { include = "finance_agent" }
+]
+
+dependencies = [
+    "yfinance (>=1.2.0,<2.0.0)",
+    "requests (>=2.32.5,<3.0.0)",
+    "pydantic (>=2.12.5,<3.0.0)",
+    "pyside6 (>=6.10.2,<7.0.0)",
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.2,<10.0.0)"
+]
