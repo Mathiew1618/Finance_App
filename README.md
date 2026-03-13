@@ -616,7 +616,4 @@ Because each layer is **modular**, these additions can be made without rewriting
 
 
 
- Author
-
-Mathiew Loisel
 
