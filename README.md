@@ -437,7 +437,7 @@ Tools can be **unit tested independently of the LLM**.
 
 
 
-# 🤖 Model Server — LM Studio
+#  Model Server — LM Studio
 
 The final layer is the **model inference server**.
 
