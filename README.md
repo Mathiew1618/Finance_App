@@ -341,7 +341,7 @@ New tools can be added without modifying the core loop.
 
 
 
-# 🔧 Tool Layer — `finance\\\\\\\_agent.tools`
+#  Tool Layer — `finance\\\\\\\_agent.tools`
 
 The tool layer contains **deterministic Python functions**.
 
@@ -618,5 +618,5 @@ Because each layer is **modular**, these additions can be made without rewriting
 
  Author
 
-Finance Agent Project
+Mathiew Loisel
 
