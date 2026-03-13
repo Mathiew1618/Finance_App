@@ -557,7 +557,7 @@ The user sees the answer.
 
 
 
-# 🌐 Online vs Offline Behavior
+#  Online vs Offline Behavior
 
 ## Offline Components
 
@@ -580,7 +580,7 @@ This ensures:
 
 
 
-# 🧠 Mental Model
+#  Mental Model
 
 For developers new to the project:
 
@@ -599,7 +599,7 @@ Tools give it the ability to \\\*\\\*see and act on real-world data\\\*\\\*.
 
 
 
-# 🚀 Future Extensions
+#  Future Extensions
 
 The architecture supports many future improvements:
 
